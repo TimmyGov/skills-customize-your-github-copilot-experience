@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-unit-testing",
+      "title": "Writing and Running Unit Tests in Python",
+      "description": "Learn to write, run, and debug unit tests with pytest.",
+      "path": "assignments/python-unit-testing",
+      "dueDate": "2026-06-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Scaffold",
+          "file": "test-starter.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
